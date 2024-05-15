@@ -1,0 +1,8 @@
+# 忽略 backend 文件夹下的 .sanity 文件夹  
+backend/.sanity/  
+  
+# 忽略 backend 文件夹下的 node_modules 文件夹  
+backend/node_modules/  
+  
+# 忽略 frontend 文件夹下的 node_modules 文件夹  
+fontend/node_modules/
